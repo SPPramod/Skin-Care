@@ -20,13 +20,18 @@ Model: Convolutional Neural Network (CNN)
 
 ## 🛠️ Installation
 
-Clone Repository
+1. Clone Repository
+```bash
 git clone https://github.com/SPPramod/Skin-Care.git
 cd Skin-Cancer-Prediction
+```
 
-Install Dependencies
-Run the Backend
+2. Install Dependencies
+
+3. Run the Backend
+```bash
 python app.py
+```
 
 ## 🖼️ Usage
 
@@ -34,3 +39,11 @@ python app.py
 - 2. Click on "Predict" to analyze the image.
 - 3. View the classification result.
 - 4. Download the PDF report for further consultation.
+ 
+## Contact
+
+For any inquiries or feedback, please contact:
+
+- **Sathya Pushana Pramod**: [pushanapramod@gmail.com](mailto:pushanapramod@gmail.com)
+- **GitHub**: [SPPramod](https://github.com/SPPramod)
+
